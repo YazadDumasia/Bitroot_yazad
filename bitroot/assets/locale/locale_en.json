@@ -1,0 +1,19 @@
+{
+  "common_ok": "Ok",
+  "common_error_msg": "Something when wrong. Please try again.",
+  "common_okay": "Okay",
+  "common_yes": "Yes",
+  "common_no": "No",
+  "common_cancel": "Cancel",
+  "common_done": "Done",
+  "common_accept": "Accept",
+  "common_reject": "Reject",
+  "common_submit": "Submit",
+  "common_delete": "Delete",
+  "common_update": "Update",
+  "common_save": "Save",
+  "common_edit": "Edit",
+  "common_active": "Active",
+  "common_inactive": "Inactive"
+
+}
